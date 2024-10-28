@@ -17,6 +17,6 @@ To use this package, add w3_ekyc as a dependency in your pubspec.yaml file.
 Minimal example:
 
 ```dart
-   WebViewPlugin(),
+   WebViewPlugin(url: url,),
 ```
 

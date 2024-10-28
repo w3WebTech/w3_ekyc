@@ -1,6 +1,6 @@
 name: w3_ekyc
 description: "A flutter widget for Webview rendering"
-version: 0.0.1
+version: 1.0.1
 homepage: https://github.com/w3WebTech/w3_ekyc.git
 
 environment:
